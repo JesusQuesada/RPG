@@ -67,7 +67,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/fondoPrincipal.jpg"))); // NOI18N
         jLabel1.setText("DESPERTAR");
         getContentPane().add(jLabel1);
-        jLabel1.setBounds(0, 0, 533, 600);
+        jLabel1.setBounds(0, 0, 520, 600);
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
